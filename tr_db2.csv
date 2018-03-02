@@ -1,0 +1,20 @@
+picture frame,playing card,lip gloss,pen,headphones,bananas
+chocolate,picture frame,lip gloss,pen,playing card
+bananas,chocolate,playing card,lip gloss
+headphones,pen,pencil,piano,lip gloss,bananas
+piano,pen,bananas,chocolate,headphones,lip gloss
+pencil,pen
+bananas,playing card,headphones
+pen,playing card,piano,pencil
+headphones,bananas
+bananas,headphones,picture frame,pencil
+sticky note,chocolate,playing card
+pen,headphones,lip gloss
+pencil,picture frame,headphones,bananas,pen,sticky note
+headphones,pencil,lip gloss,chocolate,playing card,picture frame
+playing card,chocolate
+playing card,sticky note,picture frame,chocolate
+bananas,pencil,sticky note,chocolate,pen
+sticky note,chocolate
+chocolate,picture frame,piano,playing card,lip gloss,sticky note
+pen,playing card,picture frame,headphones

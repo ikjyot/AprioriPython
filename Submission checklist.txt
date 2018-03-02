@@ -1,0 +1,3 @@
+Transactions
+Support and confidence
+Association rules and corresponding support and confidence values

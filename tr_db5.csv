@@ -1,0 +1,20 @@
+sponge,shoe lace,sailboat,floor
+lip gloss,CD
+sponge,CD,doll,sailboat
+hanger,sailboat,lip gloss,shoe lace,twezzers,floor
+shoe lace,floor,washing machine
+sponge,twezzers,sailboat
+CD,twezzers
+shoe lace,sponge,twezzers,sailboat,washing machine
+floor,sailboat,sponge,lip gloss,CD,washing machine
+sailboat,sponge,washing machine,doll,floor
+sponge,washing machine,CD
+floor,CD,lip gloss,sailboat,doll,twezzers
+doll,lip gloss,hanger,shoe lace
+CD,sponge
+lip gloss,shoe lace,floor,twezzers
+hanger,washing machine
+floor,twezzers
+hanger,sailboat,doll,floor,twezzers
+shoe lace,sponge,CD
+washing machine,twezzers
